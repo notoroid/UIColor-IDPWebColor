@@ -1,6 +1,9 @@
 # UIColor-IDPWebColor
 UIColor-IDPWebColor is an extension of the order to specify the UIColor in Web Color. - UIColor+IDPWebColor はUIColor をWeb Colorで指定するための拡張機能です。
 
+    UIColor *color = [UIColor colorWithWebColor:@"#ffcc00"]; // #rrbbgg
+    UIColor *color2 = [UIColor colorWithWebColor:@"#fc0"]; // #rgb
+    
 #Usage
 Cocoapods Supported. Please describe the following in your Podfile.
 
