@@ -6,6 +6,8 @@ Cocoapods Supported. Please describe the following in your Podfile.
 
 pod 'UIColor-IDPWebColor', :git => 'https://github.com/notoroid/UIColor-IDPWebColor.git'
 
-cocoapod install or
+cocoapod install
+
+or
 
 cocoapod update open [yourproject].xcworkspace
