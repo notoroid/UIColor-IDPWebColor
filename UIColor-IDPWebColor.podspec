@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/notoroid/UIColor-IDPWebColor.git", :tag => "#{s.version}" }
 
-  s.source_files  = "Lib/**/*.{h,m}"
+  s.source_files  = "*.{h,m}"
   s.frameworks   = ['UIKit']
 
   s.requires_arc = true
