@@ -11,3 +11,6 @@ cocoapod install
 or
 
 cocoapod update open [yourproject].xcworkspace
+
+
+See more in [swift version](https://github.com/notoroid/UIColor-IDPWebColor).
